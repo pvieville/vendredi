@@ -6,7 +6,6 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import fr.mygms.vendredi.model.carte.Carte;
-import fr.mygms.vendredi.model.carte.Difficulte;
 
 @Component
 @Scope("prototype")

@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 
 import fr.mygms.vendredi.danger.Danger;
+import fr.mygms.vendredi.danger.Difficulte;
 import fr.mygms.vendredi.model.carte.Carte;
-import fr.mygms.vendredi.model.carte.Difficulte;
 
 
 @Service

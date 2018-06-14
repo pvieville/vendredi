@@ -5,7 +5,7 @@ import java.util.Map;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 
-import fr.mygms.vendredi.model.carte.Difficulte;
+import fr.mygms.vendredi.danger.Difficulte;
 
 
 @Service
